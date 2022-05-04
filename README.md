@@ -20,3 +20,5 @@ Ejemplo:
 ```
 python dijkstra.py Quito Cuenca
 ```
+
+![Grafo Generado](graph.png)
